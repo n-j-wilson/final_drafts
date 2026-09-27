@@ -1,0 +1,118 @@
+---
+title: "Gallery Visits January 17 2026"
+author: "NWilson"
+date: "2026-01-18"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+### The Box. 
+This short trip was motivated by the show *Phallus :: Fascinum :: Fascism* at [The Box](https://theboxla.com/show.php). 
+Dozens of artworks by dozens of artists, the historical imprint of the essay for the show by Robert Zin Stark, the commentary on contemporary fascism, queerness, and things political economic. 
+These promises pull me out of my slumber of books and movies and into the gallery on the last day of the show.
+I should have known better. 
+Just that list of artists n-dozen long should have been enough to tell me this is not a one-and-done show--yes most shows, even maximalist shows of this type, are visited once by the people that make a habit of visiting galleries and for whom contemporary art actively constitutes their world--in order to actually see the work you need to be either (i) better at seeing art than I am [it's a talent and a skill] or (ii) return to the show and be with the art more than once. 
+I'll admit to being overwhelmed.
+Too overwhelmed to take any photographs or one of the free posters on the desk by the door.
+For shows of this kind, in terms of the volume of the work installed shoulder to shoulder on all surfaces, a photo of any particular artwork won't be representative of the show in general.
+But that's a bit of a cop out. 
+I couldn't see the smaller works for the presences of the larger works.
+I couldn't see the subtler works for all the cocks and dicks on the walls.
+I didn't think about snapping a photo of any of the work.\
+\
+```{r echo=FALSE, fig.cap="This drawing is not in the *Phallus :: Fascinum :: Fascism* exhibition. It's from the Lee Lozano show but content-wise it could have been included.", out.width = "500px", fig.align='center'}
+
+library(knitr)
+include_graphics("~/Documents/writing_experiments/Gallery Walk January 17 2026/IMG_5721.jpeg")
+```
+\
+As I approached the back of the large gallery (there were at least three rooms of artwork) I felt an internal contradiction regarding all the dicks and the daring and the aesthetic of of messiness. 
+This is a show that you live inside of drawn from the process of living more than a studio practice, in that it is personally political. 
+My disposition towards that sentiment,
+that freedom embodied by the work and how it is displayed and the way of living represented 
+is that it ultimately holds the winning hand.
+The freaks, the queers, and the proles will always win because they are the people living their own lives, not someone else's vision of their life or a life being sold to them.
+The contradiction I felt in that moment, three-quarters of my way through the exhibition was a kind of distance from that thought—why did I think this way of living held the winning hand?  
+
+### Hauser and Wirth. 
+I didn't intend to walk up the stairs into their [Los Angeles galleries ](https://www.hauserwirth.com/locations/10069-hauser-wirth-los-angeles/) but if you are in the Arts District and you've found parking, god damn, use that time to visit as many galleries as possible. 
+Have a drink. 
+Shop for clothes.  
+
+#### Flora Yukhovich *Bacchanalia*
+
+```{r echo=FALSE, fig.cap="Seeing Pink Elephants (2025)", out.width = "1000px", fig.align='center'}
+
+include_graphics("~/Documents/writing_experiments/Gallery Walk January 17 2026/Flora Yukhovich (2025) Seeing Pink Elephants.jpeg")
+```
+
+In the light-filled gallery with the balcony were large colorful paintings. 
+To their credit I saw them as immediately appealing. 
+I enjoyed looking at them and committed to spending time with them.
+In them see in them french academic painting, the landscapes, nudes, and cherubs of Bouguereau and Fragonard and Boucher.
+I could point at the fat baby angels and the female form and the forest framing and encroaching the mythological compositions but, (but!) here is the rub. 
+These are all completely non-representational paintings. 
+All the brushwork and the interaction of color with form has more in common with heroic painterly abstraction than Academic Painting.
+And yet, those are the cited references——French Rococco and Italian Baroque.  
+
+I take photographs of artwork quickly, as a fugitive gesture and for reference.
+As a result this image does no justice to the painting.
+In my photo of *Seeing Pink Elephants* (2025) the painting comes across like watercolor with washes of color.
+That would be a mistaken impression, these are oil on linen.
+There is a physicality to the brushwork and the interactions of color and gesture created on the canvas.
+Suppress the thought 'painterly tricks' (but there it is)
+and trace the activity of painting.
+Follow the composition as it moves around the painting connecting moments of tumult, complexity. and ease.
+
+In being non-representational these are not to be dismissed as non-confrontational.
+This work doesn't want to be invisible.
+There is something new in that combination of Academic Painting and Heroic Painterly Abstraction 
+a hint of the art which may come after the close of the mannerist age.
+New work, good work will continue to be made, but…
+[there is more to the thought but it is still incomplete]
+These are the sort of paintings I have in mind when I'm taken by the impulse to go look at paintings.
+
+#### Lee Lozano *Hard Handshake*
+
+Manuela was overflowing with its brunch crowd.
+The Lee Lozano exhibition was held in three rooms in (what I think of as) the main gallery area. 
+The First room is hung salon style, many drawings in simple frames. 
+See the image above to get a sense for how the images were hung in relation to each other. 
+
+```{r echo=FALSE, fig.cap="Title Unrecorded", out.width = "500px", fig.align='center'}
+
+include_graphics("~/Documents/writing_experiments/Gallery Walk January 17 2026/IMG_5722.jpeg")
+```
+
+I could imagine myself living with one of these drawings.
+Isn't that the question to ask yourself? 
+As I say that I also recognize that as a group I wasn't particularly interested.
+To the left of the entrance was a second room, and educational room.
+It had a timeline of her life on the wall and books to help contextualize her life and work.
+Is this for those unfamiliar with her work, or those familiar with it?
+Is this an honor or an honorific?
+My feeling looking at the work was that they have acquired her estate and are selling their book.
+It's not a complaint as much as a speculation.
+
+```{r echo=FALSE, fig.cap="Title Unrecorded", out.width = "500px", fig.align='center'}
+
+include_graphics("~/Documents/writing_experiments/Gallery Walk January 17 2026/IMG_5720.jpeg")
+```
+
+The third room contained a single row of framed sketches all pulled from different notebooks.
+Lozano's thought process on display.
+I noticed the generous use of quarter-inch matting.
+As if I needed convincing, that this work is important work. 
+Who made this display decision? 
+More evidence (again this is all my projection) that they are selling their book.  
+As the movie says, exit through the gift shop. 
+I bought six post cards and a t-shirt. 
+
+### Closing note about visits to the Arts district. 
+Next time take public transportation.
+Street parking is enough of a hassle to run the entire experience. 
+The other option is to pony up the cash and part in a lot, but that seems to cut against one of the nice aspects of looking at contemporary art in the gallery; it is a free activity. 
+One of the last ones available to us as an urban public. 
+Subsidized without government direction by the rich (or the bohemian instinct), why not commit to the bit and insist on the only cost being opportunity cost. 
+What else would I be doing with a January Saturday afternoon in the year 2026?\
