@@ -1,0 +1,88 @@
+---
+title: "Introduction to Economic Basis of New Society"
+output:
+  word_document: default
+  html_document:
+    theme: null
+    css: style.css
+  pdf_document: default
+---
+
+
+I wanted to share this article with you because it's a useful bit of political economy.
+While browsing at Autumn Leaves in Ithaca I saw the note at the bottom of the first page of this article "written specially for this volume" and that piqued my interest.
+I've spent eighty bucks on a volume of Dewey's collected essays just to get my hands on one essay, $12.50 for this collection seemed like the right price. 
+I'm glad I was able to circle back to the bookstore and pick this up. 
+
+I like Dewey's philosophy in general, though this isn't an explicitly philosophical essay.
+Classical Pragmatism was one of the methodological approaches we were taught in our interdisciplinary PhD program---so I'm partly attached to it for that reason. 
+There is also an aspect of his point of view that embodies a left wing political tradition which is alternative to Marxism.
+My intuition is that Marxism gets attention as *the* critical approach to the economic structure of society when in fact there are many.
+(There are many, many critical traditions indebted to Marx, thus considering even just a taxonomy of alternative critical approaches in any depth is a project I will leave for someone else).
+There is also an optimism in Dewey's writing that I don't get from Marxists.
+If you can only promise struggle, most people would rather do something else. 
+I don't say this to diminish Marxists or their approach, if there is to be a better world we will have to get there together. 
+
+All that said, as an introductory work of political economy I think the *The Economic Basis of The New Society* is pretty good. 
+The book it comes from was published in 1939 (the first sentence mentions the "next world war") but sections of the essay are taken from an earlier article published in 1918 about the lessons of economic organization of the first world war.
+It's an interesting snapshot, and you don't just find it here, it was a broadly taken lesson of the war---something like 'actually we could organize production and distribution like for war, but to benefit the population.'
+Here's Dewey,
+"The real question with us will be one of effectively discerning whether intelligent men of the community really want to bring about a better reorganized social order. …instead of letting society drift along more or less at the mercy of accident." (424)
+This is before GDP (or national income accounting) was invented and before the idea of rational management was a 'thing'.
+Instead, in the sections from 1918 he identifies several problems with the economy broadly conceived, then he envisions a solution to each problem. 
+^[Dewey's lessons from the war are different from what we see in William James' *The Moral Equivalent of War*. Published in 1910, that essay is a vision for creating a type of social cohesion without an active war machine. We can see James' ideas reflected in the idealism behind The Peace Corps and Teach for America and the periodic calls for institutions of national service.]
+
+One of his solutions to an economic problem he identifies is 
+"the guarantee of the right, to every individual who is capable of it, to work---not the mere legal right, but a right which is enforceable so that the individual will always have the opportunity to engage in some form of useful activity."
+Advocating for a "right" to meaningful employment is remarkable as it strikes against one of the classic presuppositions of capitalism (the organization of production, and therefore employment, on the basis of profit but---this is a critical and part of what separates it from Marxists---he doesn't advocate for a right to work in terms of the struggle against capitalism, he is interested in bettering people's lives now)
+Among two of the economic reforms found in current public discussion, a basic income guarantee (BIG) and a job guarantee (JG), the later is consistent with his vision.
+Though Dewey doesn't mention the radical implication, a JG removes the threat of unemployment as a method to discipline worker behavior and potentially breaks the ability of the owners of capital to dictate the terms and scope of economic activity.
+I interpret a BIG as more palatable to the status quo because it does not change control over the terms of employment or production.
+Indeed, studies of cash transfer programs indicate that people use the money to address the expressions of their precarity (fixing cars, dental care, housing stability, building a savings saftynet) rather than leading to an exit from employment.
+Palliative care for persistent sickness.
+An intelligent approach to an epidemic of chronic disease is a mixture of palliative and preventive care. 
+
+Dewey suggests other reforms in the selections from 1918, but the main focus of the new writing was the active problem of the late 1930's; how will society be organized so as to preserve the things about democracy worth preserving.
+^[Intellectual and moral freedom.
+Freedom of inquiry and expression.
+Freedom of association in work, recreation and for religious purposes.
+The freedom of intercourse among nations.]
+In this discussion he associates the USSR with the explicitly Fascist countries of Europe.
+1939 was before the invention of the word Totalitarianism, so that adjective was unavailable.
+He was looked down on by some of my Marxian professors though they never said precisely why.
+It could have been because of the Dewey Commission. 
+In 1937 he and several other American intellectuals traveled to Mexico to establish the facts of case brought against Trotsky by the USSR and the Moscow show trials of '32.
+The commission found Trotsky not guilty and the concluded the show trials were a general frame up.
+Depending on the account you read, the Dewey Commission was either a model of truth-finding and a primary inspiration for the Nuremberg trials or it was a sop for Trotsky and the enemies of socialist revolution.
+
+Dewey self-identified as a liberal, but was never an apologist for the established social order and its shortcomings (thought hw doesn't write about race in this essay, Cornell West calls him explicitly anti-racist).
+He believed in the possibility of progress and the process of finding the truth.
+That said, Fredric Hayek didn't like Dewey and considered his activist vision of progressive liberalism as being in league with totalitarianism.
+Here's Dewey, 
+"Social control effected through organized application of social intelligence is the sole form of social control that can and will get rid of existing evils without landing us finally in some form of coercive control from above and outside." (431)
+Those thoughts may be a good place from which to understand what was new about the New Deal.
+Dewey has a vision of the state actively involved in the economy through social insurance, regulatory activity, and employment none of which really existed at scale in America before FDR.
+Simultaneously, conservatives understood the 'application of social intelligence' as an erosion of traditional structures of governance to which they were amenable, while libertarians like Hayek feared the implementation of social objectives will come at the loss of individual liberty.
+There is another essay to be written connecting Dewey's thought and that moment with the ideas of contemporary reactionaries who are actively removing the ability of the state to effectively administer economic activity in the US. 
+
+Towards the end of the article Dewey puts forward a very simple vision of the good life, "…free human beings associating with each other on terms of equality." (430)
+I take this to be an aesthetic vision of a beautiful or just society, the focus of the article being how to achieve the economic preconditions of this vision.
+An economics without an aesthetic vision, however accurate the economics may be, will fail in its advocacy.
+
+So, by 1939 the lessons of the Great War had been metabolized and the idea of *planning* already contained the smell of the Soviet project.
+Dewey took a moment to distinguish his project from theirs and in the process we get a glimpse at what made his thought special,
+"An immense difference divides the *planned* society [i.e. the Soviet or Communist approach] from the *continuously planning* society. …The attempt to *plan* social organization and association without the freest possible play of intelligence contradicts the vary idea of *social* planning. For the later is an operative method of activity, not a predetermined set of final "truths.""
+The emphasis on the social process of planning and *"not a predetermined set of final truths"* is a hallmark of his anti-foundational method.
+Dewey's philosophy for a progressive society without predetermined, final truths is what inspired Richard Rorty to group Dewey with Wittgenstien and Hiedegger as the three greatest philosophers of the 20th century.
+I see it as an outline for how Jefferson's vision in the preamble to The Constitution and Lincoln's vision for America in The Gettysburg Address could actually be brought to fruition. 
+
+A last note following in the spirit of the essay.
+One of our obligations as democratic citizens to ask in an active manner, 'What are the overarching economic problems of the current moment?'
+Housing?
+Inequality of reward and prestige in the economic system?
+Precarity?
+Environmental Crisis?
+Social stagnation?
+He talks in the outset about learning important economic lessons from WWI, now we have an additional 100 years of global history to learn from.
+It is not beyond our ability to make a better world for everyone. 
+

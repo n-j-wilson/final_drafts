@@ -1,0 +1,155 @@
+---
+title: "The Economic Basis of the New Society"
+author: "John Dewey"
+date: "2026-07-06"
+output: html_document
+---
+
+Published in 1939 as part of a 1939 collection of his writing. 
+I think this is published when Dewey was at the height of his influence, and when the idea of an distinctly American philosophy and intellectual tradition, was still possible. 
+Many of the intellectuals whom the Nazi's had fled Europe for their lives and careers were already in the United States, but the influence of their thoughts had not yet mixed into culture. 
+And so we had Pragmatism (a word Dewey did not use in the essay) and in economics we had the New Deal developed out of the ideas of the original institutionalists. 
+With the Supreme court making the Unitary Executive the law of the land last week, this article is from the beginning of a different moment---the dawn of the administrative state. 
+
+This article contains many of my favorite aspects of Dewey's thought, moreover important aspects of the political economy I find most appealing. 
+Chunks of the beginning of the article are taken directly from an essay written after WWI.
+There is a thought about WWI which John Henry articulated which we also find here.
+Among the lessons of The Great War was the possibility of the rational management of the economy to meet the needs of the population.
+The particular focus at the outset is unemployment, rather than the production of any particular things.
+Unemployment represents a waste of the potential of the population and has a corosive effect on self esteem.
+
+Quoting him at length
+"…so far as efficiency in the invention, organization, and utilization of the machinery of production and distribution is concerned, the present age is almost infinitely in advance of any that has proceeded. Of course, in a certain sense, as compared with older civilizations---those that came before the great industrial revolution---this is true enough; for these mechanical inventions are, of course, the product of scientific discovery. They are the product of the release of men's minds in the study of nature and the mystery of natural forces. It  is a great mistake to suppose that our mechanical inventions of machines and implements ---the steam engine, the telegraph, the telephone, the motor car, and the other agencies of production and distribution--- are the actual fruit of the present industrial order. On the contrary, they are the fruit of the discoveries of a comparatively small number of scientific men who have not labored for recognition and who have never got it, very much---at least, in the way of pecuniary recognition. It simply happened that conditions were such that the men of means, men possessed of the financial and pecuniary resources, could utilize these fruits of natural science." (419-420)
+This is the idea of the joint stock of knowledge clearly expresses. 
+In a way, one of the promises of AI as a mass technology is that it will allow everyone access to these discoveries. 
+There is a change in the way AI is being sold, from it will solve all the worlds problems (every disease!) to it will allow everyone to start a business (the billion dollar vibe-coded one-employee business) that sort of reflects the implication of this idea. 
+
+I was thinking about the Peter Theil idea about the reason for starting a business being to solve a problem.
+'It doesn't make sense to me, people that say they want to start a business. Starting a business is about solving a problem.'
+Perhaps that is so, but misses the idea that some people are motivated to be their own boss, to not work for anyone but themselves. 
+Yes, there is the idea that in business you ultimately work for your customers, true as far as that goes. 
+But in the Elizabeth Anderson sense of Private Government, so long as you work for a company you are subject to the authority of other people what can be arbitrary and capricious. 
+Ignoring the possibility of a bad boss, there may be the desire to not be subjected to the authority of another person at work. 
+
+Theil's idea is related to the justification of inequality and the valorization of the entrepreneur and the business class. 
+Monetary incentives are what bring forward the innovations on which our modern society are founded. 
+This is the neoclassical logic that (I think) is demonstrably false. 
+Not that monetary incentives don't matter, they do, but there is another thing at work difficult to articulate (Veblen calls it the Instinct of Workmanship) which is more responsible for our material conditions.
+The business person takes that knowledge and creates a vendible product.
+Even within the enterprise where research is under way for a purpose, the scientist-researcher-employees who develop the innovations are seldom rewarded to the extent that the manager-executives are.
+
+That has me thinking about the development of vendibility rather than the development of new ways of living which we have experienced since my adolescence (say 1990). 
+[Do I really want to get into a conversation about what the cel phone is in terms of new ways of living? A phone, a map, mail service, a camera, a game device all in one. To the degree that it consolidates formerly independent technologies it is a destroyer of material experience as much as a creator in that it eliminates certain locations of industrial production (eastman kodak)]
+Here I am thinking about the changes in sport as emblematic of larger trends in the society.
+In 1990, the NBA was a professional sports league, played in large arenas and broadcast on television. 
+There was a slight expansion of the league later in the decade and a slight reorganization of the cities in which team play.
+And yet as a business the money generated by the league and the value of 
+
+development of the athletes
+merchandise for the fans
+professionalization of training and the equipment
+Change in the rules to make is higher scoring and to the benefit of the players
+The expansion of the economics of a sport is not the same as making how the sport is played better. 
+I prefer the pre-1995 strike version of Major League Baseball.
+Not too many strikeouts, not too many homers. 
+Fielding is on the whole better now, but that doesn't always make for a better in-game play. 
+
+The material aspects of our lives may be the stuff of collective and anonymous invention, but there is also a deliberate focus on expanding vendibility.
+Making products that can be purchased, and price differentiation to extract more from the people able to pay more, is a type of creative enterprise with in a way, a feedback loop as direct as 
+
+Three evils of the (then) present economic order
+(1) unemployment
+(2) low standard of living for industrial workers
+(3) inefficiencies of production and distribution
+
+great demands of a better social order:  
+(1) "the guarantee of the right, to every individual who is capable of it, to work---not the mere legal right, but a right which is enforceable so that the individual will always have the opportunity to engage in some form of useful activity."
+(2) "administration which could be used to raise and mantain on a higher level the general standard and scale of living."
+(3) "greater ability on the part of the workers in any particular trade or occupation to control that industry, instead of working under conditions of external control..."
+
+These ideas which came to the fore after WWI, the inspiration that there was a better way of living, "The real question with us will be one of effectively discerning whether intelligent men of the community really want to bring about a better reorganized social order. …instead of letting society drift along more or less at the mercy of accident." (424)
+
+There are a couple good examples of Dewey's description of the process of governance
+"The question is whether society, because of the experience of the war, will learn to utilize the intelligence, the indight and foresight which are available=, in order to take hold of the problem and to go at it, step by step, on the basis of an intelligent program---a program which is not too rigid, which is not a program in the sense of having every item defintely scheduled in advance, but which represents an outlook upon the future of things which most immediately require doing, trusting to the experience which is got in doing them to reveal the next thing needed and the next steps to be taken." (423)
+
+
+facing down the fascist countries, of which he says there is little difference between them and the U.S.S.R.
+"The urgent question is whether the changes can be made which preserve and develop what was fundamental in earlier liberalism..." (425) then a list of these things
+
+p421 a section on housing.
+The fading of the importance of industrial workers in terms of the large portion of work to be done. 
+Can service work be planned in the same way as industrial work? 
+
+He talks about charity in a negative light, but expresses no sympathy for people who oppose taxation and think the poor to be a idle and content to live at the largess of society. 
+
+(p428)
+
+The question in Dewey's eyes is whether the needed social changes can be done in a way that "preserve and develop what was fundamental in earlier liberalism, or ... instituted by means of coercive governmental control." (425)
+Interesting question whether the "administrative state" which was articulated by the New Deal counts as coercive governmental control? In terms of the things worth saving in a democratic ideals it does not. 
+
+He has a list of the things worth saving about democratic ideals: (425)
+intellectual and moral freedom
+freedom of inquiry and expression
+freedom of association in work, recreation and for religious purposes
+the freedom of intercourse among nations (which always hampered by tariff-walls and rear of war is now deliberately suppressed)
+
+The method for dealing with unemployment he calls "palliative" in opposition to preventative. 
+"the personal deterioration that results from enforced idleness is a cercion which excludes the idle from the factors that contribute most effectively to decent self-respect and to personal development. ... it would be difficult to find anything more destructive to the best elements of human nature than a contiuned prospect of living, at least of subsisting, in a more or less parasitical dependence upon charity, even if it is public." (427)
+He is then very clear that he is not against taxation nor is he supporting the view that the poor are deliberately idle. 
+
+I wonder about making an extended case about the experience of the ultra wealthy living off the usufruct of their capital ownership. It is a kind of dependence on society, though in this case it is the legal system and the general case of social relationships. 
+
+He makes the basic Veblenian point about the restriction of production on the part of industry when faced with an economic downturn being a perverse action. The opposite of what is needed. 
+
+Dewey does articulate an end in view, a vision of the good life, "…free human beings associating with each other on terms of equality." (430) "Social control effected through organized application of social intelligence is the sole form of social control that can and will get rid of existing evils without landing us finally in some form of coercive control from above and outside." (431)
+
+"An immense difference divides the *planned* society from the *continuously planning* society. …The attempt to *plan* social organization and association without the freest possible play of intelligence contradiction the vary idea of *social* planning. For the later is an operative method of activity, not a predetermined set of final "truths."
+You can see the anti-foundation aspect of Dewey's approach and democratic self management and the continuum of means and ends. 
+
+
+
+
+The current political task it to respond to the problems of the moment. 
+Although they may not be clearly available, there are other ways to organize social intelligence than through either the "administrative state" or market governance
+
+When I read this article I see the intellectual perspective that produced the New Deal (the WPA, TVA, CCC and later Truman's attempt to nationalize the steel industry).
+That said, I don't think that Dewey would have been content with the New Deal order which persisted through to Reagan.
+Those programs and that style of governance developed as a creative response to the real problems of a modern industrial society in the 1930's.
+As society changed new problems have emerged, thus existing styles of government should be developed in response. 
+The New Deal vision turned into the management of economic affairs through executive branch agencies.
+Neo-liberalism, which emphasizes market governance, identified economic problems with the political management of economic agents.
+There is the complicating issue that, though the neoliberal tide may have crested it animates the imaginations of, for instance, members of the Supreme Court and the Trump administration (ruling against Humphrey's Executor, instituting Project 2025) just as the New Deal continued to inspire judges and politicians into the 1980's.
+
+As a philosopher interested in the consequences of action and the indivisibility of ends and means, I'm certain the effects of the neoliberal moment would have been unacceptable to Dewey because they consign most people to drifting at the mercy of accident.
+Hayek's confusion of the administration of the economy with totalitarian domination relies on a refusal to understand individual agents simultaneously as social agents. 
+Placing restrictions on private property rights in the interest of social welfare (economic administration) is legitimate so long as we recognize that private property itself is created by its social context. 
+Effective regulation can enhance personal liberty and stabilize a society if the regulations are understood to be enhancing opportunity and equality.
+Dewey articulates a vision of the good life towards the end of the chapter.
+It's simple in two parts, "…free human beings associating with each other on terms of equality." (430)
+The second part is the heart of the division. 
+What does is mean to be equal when wealth (and this agency in the economy) is distributed so unequally?
+What does it mean to be equal when the administration of the economy is done by public servants who sit outside of the market relationship? 
+
+As a philosophical perspective, pragmatism insists that the only legitimate place to find these answers is in practice.
+People experience the world.
+They share their experiences, troubles and ideas and experimentaly work toward solutions.
+The conservative legal movement looks to a variety of Originalist approaches to the law to answer what equality means in these cases.  
+There is a method and a way. 
+To see how radically different Dewey's approach is from these originalists and the 
+
+
+Hayek's confusion of administration with totalitarianism is one of the ideas animating the conservative legal movement.
+Economic administration as social control. 
+The argument in The Road to Serfdom is that state interference in the economy leads inevitably leads overpromising and a conflict between ... 
+James Burnan critiqued this vision in his book... 
+The manner in which the government developed in response to this vision and other was to create an  and the professional managerial class --- James Burnam and C. Write Mills' response. 
+These people may be controlling, though they don't make for a perpetuating economic class (they don't own capital which can be passed to their dependents, and their kids don't inheret their political offices)
+And they certainly don't make a totalitarian group 
+Originalism as a revanchist approach to law that is antithetical to the pragmatic approach. 
+the neoliberal project may have failed, but the conservative legal movement is finishing the work of disestablishing the New Deal. 
+
+
+
+
+
+

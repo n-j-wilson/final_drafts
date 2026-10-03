@@ -1,0 +1,14 @@
+/* Change main document font to Georgia */ 
+body { font-family: 'Georgia', serif; } 
+
+/* Match block quote font size with the document text */ 
+blockquote { font-size: 1rem; }
+
+body  {
+  margin: 50px
+}
+
+/* Changes line spacing to one and a half-spaced */
+body  {
+line-height: 1.75
+}
