@@ -1,0 +1,233 @@
+---
+title: "15 Westerns"
+output:
+  word_document: default
+  pdf_document: default
+  html_document: 
+    css: style.css
+date: "2026"
+editor_options: 
+  markdown: 
+    wrap: sentence
+---
+
+```{r, echo=FALSE, message=FALSE, out.width="100%", fig.align="center", fig.cap="Richard Prince, *Untitled* (Cowboy) 2016"}
+library(here)
+knitr::include_graphics(here("7-2027", "IMG_6077.jpeg"))
+```
+
+As usually happens when we go out for pizza the kids called.
+Walking into the pink and golden summer evening and away from our table to give their conversation some privacy.
+She listened.
+Giving each of them the time to express themselves and, from what I could see (but not hear), responding to what they said seriously.
+It seemed stressful, to raise three teens as a single mom.
+After the phone call, Ann was quiet for the rest of the meal.
+She didn't share the specifics of their conversations with us but as we drove back from dinner her kids were stitched into our conversation.
+*They say I don't share my favorite movies with them*.
+And so we talked about movies, some favorites and what might appeal to them and the possibility of putting together a list of movies for her kids to watch.
+It's a kind of educational project.
+What are the movies that everyone should see in the process of becoming an  adult? 
+What about keeping the list to just Westerns?
+Gore Vidal liked to say that the Western was America's only cultural gift to the world.
+It seems like a quip he made in 1948 while drinking and then repeated without reflection for the rest of his life.
+But there's some truth there---the Western could only be invented in America.
+It is a reflection and a direction, a promise (or betrayal) and a myth, a landscape and a mood all as genre.
+
+If we want to understand our country's self-understanding, mythology and reevaluation of that myth, look at the stories it tells most frequently.
+[Western movies](https://www.youtube.com/watch?v=c-anHFFVsAI) fit the bill and they can provide a secret, sneaky education in American Studies.
+After all, a cardinal aspect of the 20th Century is that the people got their philosophical instruction through popular media like the movies than through books.
+Movies deserve and benefit from serious reflection.
+That said, I'm not going to articulate my *theory of the Western* except as it may be apprehended through my list.
+Scholarly theories and popular visions abound.
+The first major academic study of Western movies, *Horizons West*, was published in 1969. 
+That Westerns matter is actually a bit of a dead letter now, the juice seems to be in the Horror genre which is more personal and  less historical, moralistic, and racist  (see *Men, Women and Chain Saws: Gender in the Modern Horror Film*).
+
+Not all Westerns are very good. 
+Most aren't very good at all.
+And yet they were very popular and produced in terrific volume.
+Resolving that paradox may be education enough to thrive as an adult.
+Pulp novels.
+Serialized radio dramas.
+Hollywood used to release a new Western every other week.
+Long before cop shows and reality TV took over, Westerns dominated prime time TV.
+Think about the sprawling Yellowstone TV franchise and multiply it by the three broadcast networks and spread it across the whole week.
+There exists today, the way there used to be am radio stations dedicated to big band music for nursing home residents, several cable TV stations that only play Westerns.
+WEST (Western Entertainment Series Television), The Cowboy Channel, INSP, Grit.
+The list is much longer if we add stations that regularly but not exclusively broadcast Westerns.
+All day and all night, from TV and the movies, there is plenty of content if volume of content is what you are after.
+
+There are many, many lists of the best and greatest Westerns of all time.
+I read lists like that but I don't like to make them.
+Rankings of that sort create a hierarchy among movies that doesn't exist.
+Implied therein is an arbitrary separation of the included from the rest.
+A top ten list depends on all the movies that didn't make the list.
+If you only watch the greats don't you lose the context required to understand what makes them great?
+If we only understand history through highlights we misunderstand what the experience of living through history.
+It is a tough argument, bad movies make good movies better, but it's true.
+
+And yet I made a list.
+Short descriptions of 15 Westerns focused some icons of the genre, certain actors and directors that I like.
+Following a person's career can lead to a deep understanding, what changes and what is constant.
+Naturally there is a lot missing from my list.
+Nothing from the 1940's.
+No *Shane*, *Fort Apache*, hardly anything international and nothing low budget and only one revisionist Western from the 1970's.
+No [Lee Van Cleef](https://www.youtube.com/watch?v=kpjWox_c9Ig), no Michael Curtiz, nor the contemporary exemplars *Dead Man*, *Brokeback Mountain*, *The Proposition*, *No Country for Old Men*, *The Way of the Dog*.
+Watch all those too.
+My list was not intended to be exhaustive or exclusive.
+There is always something more worth seeing.
+
+Before talking about individual Westerns, consider Tom Mix.
+The original man in the white hat.
+Mix is "important" to the degree silent film actors can still be important.
+[His ghost shows up in *Mulholland Drive* (2001)](https://www.youtube.com/watch?v=Fd5HEJdcBwM) to instruct the surly young director on what must be done to make a movie in Hollywood.
+I can't recommend any of his movies, but you can watch clips on YouTube and his Wikipedia page.
+The acting is weird and storytelling strange, the pacing and the camera angles unfamiliar.
+Most silent films come across as anachronistic and disconnected from modern entertainment.
+All that said, Mix was a major star back when motion pictures were new and Los Angeles county was still America's most productive agricultural county.
+Time was, to make a name in pictures it was enough to just look good on a horse.
+
+[*Stagecoach*](https://www.youtube.com/watch?v=yccvdXoHubI) (1939) John Ford\
+It's a social movie, but also an action movie.
+It's about class but is never didactic.
+There is so much here in prototype; the chase scene contains the seeds of all movie chase scenes to come.
+A hope for America as an egalitarian nation and a good demonstration of what can be done with a genre picture.
+
+[*High Noon*](https://www.youtube.com/watch?v=7MooNISe8aM) (1952) Fred Zinnemenn\
+A simple story: the sheriff stands up for what's right while the townspeople he has sworn to protect, for their own selfish reasons, all stand aside.
+Westerns typically embody the nation's self-confidence which generally makes the resolution of the drama a foregone conclusion. 
+Of course the forces of right will prevail, but here the town folk are in doubt. 
+The movie unfolds in real time and that creates a cinematic tension while Gary Cooper's moral clarity in the face of cowardice provides the drama.
+This is the sort of film that could be shown in civics class to educate the youth about right and wrong, but it's also a good film.
+
+[*Johnny Guitar*](https://www.youtube.com/watch?v=PAw7y76awqk) (1954) Nicolas Ray\
+A picture where Joan Crawford dominates and traditional gender roles are reversed.
+Filmed using TruColor, a color process that adds to the unreality of what we see on screen.
+Sterling Hayden's larger than life man-child plays on the fact that Westerns are about masculinity and Andy Warhol's aside "Haven't cowboys have always been gay?"
+It's the sort of film that has to be seen to believed.
+
+[*The Searchers*](https://www.youtube.com/watch?v=7trVlCbuEVM) (1956) John Ford\
+By turns beautiful, hokey, odious, and loving.
+A true epic, shot in technicolor in Monument Valley with a particular reverence for the masculinity of John Wayne.
+The last time I watched this I saw it as riding on the subtext of race and identity in America, but upon reflection calling it subtext isn't right.
+This is explicitly about white manifest destiny, and it has been called the greatest movie ever made.
+I've always found thinking about a movie in those terms confuses my ability to see the movie for what it is.
+Johnathan Lethem [wrote an essay about his relationship with this movie and it's legendary status](https://engl551.wordpress.com/wp-content/uploads/2015/11/jonathan-lethem-defending-the-searchers.pdf), how he comes back to it again and again, the movie refusing each time an easy understanding.
+And then he wrote [another essay](https://medium.com/@jonathan.lethem/improving-the-searchers-90f82de4310e) about the film.
+The cinematography, the cinematography.
+
+[*The Man who Shot Liberty Valance*](https://www.youtube.com/watch?v=ZUqxhx4pHG0) (1962) John Ford\
+A movie about myth making, violence and the role of newspapers---today we would say the media---in creating the idea of American West.
+It's also about the coming of the law, learning and gentility, and what was required for such things to flourish.
+It's interesting to think about this movie in connection with revisionist Westerns.
+This manages to be an entertaining movie in the form of a classical Western.
+It also says, quite explicitly, there is a more historically accurate way to tell these stories, and suggests that the only thing preventing these stories from being told a different way is the inclination of those who know the truth.
+
+[*Ride the High Country*](https://youtu.be/VmVOx44WfBs?si=FINlIuZTUG06V8_s) (1962) Sam Peckinpah\
+The least essential movie on my list.
+It's an example of what films in the genre were doing in general if not so explicitly.
+I think of this as an existential Western, an education into how a person should be.
+I love Peckinpah.
+Compare this with his other film on my list made just seven years later.
+He wanted to be a "serious director" but was pigeonholed into genre pictures.
+A big personality and a headstrong character, his biography is full of astounding stories.
+Eventually his alcoholism made him more or less unemployable and he ended his career directing music videos, a serious step down for a serious man.
+Though I remember [the Julian Lennon video](https://youtu.be/aQs1Ynq0rlk?si=Euj-DzY61S2iwrJA) he directed being a hit on MTV.
+
+[*Once Upon a Time in the West*](https://www.youtube.com/watch?v=c8CJ6L0I6W8) (1968) Sergio Leoni\
+Style as substance.
+Forget about all that moralizing, the subject matter is the look of the genre.
+A man with no name in a rural setting.
+You can watch Westerns from all over the world, from Italy but also from Argentina, Australia.
+A lot of the Japanese samurai movies can be thought of as sort of Western, famously *The Magnificent Seven* is a reworking of *The Seven Samurai*.
+If you are interested in the aesthetic of the Western genre you will recognize Sergio Leoni's movies as a high water mark.
+The atmosphere, the opening scene, the [Ennio Morricone score](https://www.youtube.com/watch?v=m6BQKFs3-VM), the pacing, Henry Fonda playing against type.
+All perfect.
+
+[*The Wild Bunch*](https://www.youtube.com/watch?v=271QpIQnYJQ) (1969) Sam Peckinpah\
+I used to say this is my favorite movie.
+It's weird to have said that because I don't like to pick singular favorites just like I object make top 10 lists and that sort of thing.
+This was one of the Westerns (like *Once Upon a Time in the West*, *The Searchers*, *Pale Rider*, *Silverado*, *Unforgiven*) that I watched with my dad.
+Released in 1969, people sometimes talk about this as an allegory for the war in Vietnam.
+Upon release it was considered profoundly bloody, that's part of the allusion to Vietnam.
+The thing that really strikes me about the film now is how it celebrates relationships between men.
+Riding shoulder to shoulder across the open range.
+The sense that in the end you are fighting for your buddies, that heroic bond of fatalism and togetherness.
+The Townes Van Zant song [*Pancho and Lefty*](https://www.youtube.com/watch?v=m9trdd3kFwc) derives some of its tragedy from the betrayal of that bond.
+This is the movie where Peckinpah was able to work out his themes (pessimism about children-as-the-future), interests (shoot out as ballet), and biases (a disdain for women) in ways that presage the director-focused turn that Hollywood would take for much of the 1970's.
+Part of what makes this movie great for me is that it is not a revisionist Western, it's not showing us the awful truth we weren't allowed to know.
+The simple truth of filial love unfolding the way it always has.
+
+[*Blazing Saddles*](https://www.youtube.com/watch?v=ZzKUVsHL7ac)
+(1972) Mel Brooks   
+Some people don't believe in genre.
+There aren't Westerns they say. 
+Only Nicolas Ray movies, John Ford movies, Sam Peckinpah movies. 
+The vision of the director is the through-line that matters, genre is a marketing term that degrades the art form.
+*Blazing Saddles* makes both sides of the argument.
+It's a Mel Brooks movie, and a satire. 
+If you only watch one film on the list it should be this one. 
+Partly because it's a satire, and for satire to work it has to pick up on what we expect the Western to be and what is going on in the society at large. 
+Co-written by Richard Pryor, this movie manages to tell fart jokes and be incredibly smart. 
+
+[*McCabe & Mrs Miller*](https://www.youtube.com/watch?v=22p1RVuRLB8) (1972) Robert Altman\
+There have always been revisionist Westerns and the early 1970's brought a bumper crop.
+The mood in America in the 1970's was one of disillusionment and the movies of that decade reflect that.
+*5 Easy Pieces*, *Coming Home*, *The Conversation*, *Nashville*, and many others justify that impression.
+If we accept one function of the Western genre is to produce a national myth, incorporation of the national mood into the genre creates a different sort of myth, one that foregrounds aspects of the myth that were previously suppressed.
+The ending here is particularly devastating.
+After the early 70's, most of the Westerns made were revisionist Westerns.
+Altman was on a run of great pictures when he made this but it was not a hit.
+A splendid film.
+
+[*Heaven's Gate*](https://www.youtube.com/watch?v=cVUfnWwqNAg) (1980) Michael Cimino\
+The 70's were a pivotal decade for American film.
+For a few years directors and blockbusters coexisted in Hollywood's business model.
+The industry had been sold on a director with artistic vision delivering box office results (Francis Ford Coppola, Peter Bogdonovich, Stanley Kubrick, Robert Altman, Michael Friedkin, Ingmar Bergman, etc.) meanwhile the blockbuster economics of movies like *Jaws* and *Star Wars* promised a path to profit via mass-market thrills.
+Heaven's Gate played a role in resetting the balance away from the director--- a polite way saying this movie lost a lot of money.
+Some claim it killed the Western as a genre and ended Hollywood's permissive attitude towards visionary directors.
+The first may be true, but the second is unfair.
+Heaven's Gate is long, beautiful, heavy-handed, pretentious, occasionally incoherent, turgid, gorgeous, and joyous.
+See the 219 minute version if you can, and read the book *Final Cut: Art, Money, and Ego in the Making of Heaven's Gate, the Film That Sank United Artists*, by Steven Bach as part of the experience.
+One way to think about this movie in a larger context is as being about the business of the film industry, "The business of America is business" and so forth.
+Within the film the plot is about a class war between ranchers and immigrants.
+Outside of the world of the film *Heaven's Gate* is emblematic of changes in Hollywood's distribution system that allowed for the "rediscovery" of movies through home video, cable (and eventually streaming); profound changes in the way movies are seen and generate revenue.
+The world we live in today.
+Focusing on the financial dynamics of the film and the industry may be unfair to the Cimino's intentions.
+Movies like this are supposed to be watched in a dark theater with other people and in that experience they create meaning in a unique manner.
+But there are many ways to be meaningful.
+
+[*Pale Rider*](https://www.youtube.com/watch?v=E_fyA3QYSYc) (1985) Clint Eastwood\
+I like that it's set in the mountains, it reminds me of early childhood summers in Colorado.
+My dad dubbed this from HBO onto VHS, so I watched it a bunch as a teen.
+Typecasting is part of what appearing in movies does, thus certain actors are associated with the Western genre.
+John Wayne, Tom Mix, and Clint Eastwood are classic examples.
+They made other kinds of movies, but you get the idea.
+Here, Eastwood directs himself and uses the audience's expectations of him to help reestablish the Western genre five years on from the negative phenomena of Heaven's Gate.
+It's not quite a revisionist Western, but in its pessimistic-realism you can see it as indebted to the themes of 1970's America.
+
+[*Unforgiven*](https://www.youtube.com/watch?v=zlyZeYfoupo) (1992) Clint Eastwood\
+Sort of a revisionist take on the myth of the West, it's also about aging and friendship and what a life of violence does to its practitioners.
+Originally, I saw this in the theater with my dad.
+After the movie he repeated a line from the movie, *But I have a house*, with approval.
+He wasn't one to talk much about movies and art, so I spent a lot of time as a kid trying to understand what it was about that particular line that appealed to him.
+It could be that we are confused about what actually has power in the world.
+It's easy to imagine the details of a story have a power they do not.
+The thought "this can't be happening to me" expressed as "this doesn't happen to people with a house."
+*Unforgiven* isn't really about the idea that the world is indifferent to the narrative structuring of our lives (Terrance Malick's *The Thin Red Line* (1998) is a movie about that idea) but the thought lives in that one line.
+Unforgiven won the Oscar for Best Picture of 1992.
+
+[*Drive*](https://www.youtube.com/watch?v=BHVbbcHWX4k) (2011) Nicolas Refn\
+The Western genre as instrument of the national mythos requires a self confidence that our country probably no longer possesses. 
+Nevertheless the components of the genre remain; the existential landscape, a distinction between the law and morality, horses, and the man with a code but no name. 
+Here is a film with all those elements fit for a nation without self-confidence. 
+The car as the horse, Los Angeles standing in for Monument Valley, Ryan Gosling as the man with no name, and we have a contemporary Western.
+
+[*Hell or High Water*](https://www.youtube.com/watch?v=p-FX_7SFSsM) (2016) David Mackenzie\
+Anything can be a Western so long as it is located in the right landscape.
+This movie (part of a group of movies I call the great financial crisis film festival) fits the bill.
+Banks are still the baddies but now we have oil or gas instead of gold.
+If we take the Western seriously as the barometer of the legend America tells about itself, we should be clambering for more contemporary (or neo-) Westerns to understand ourselves better.
+What does the closing of the frontier mean today?
+Don't they call cutting-edge AI companies "frontier labs" where the contemporary western about that?
+What are the good and bad archetypes of masculinity?
+What are the possibilities for existential freedom in this country?
