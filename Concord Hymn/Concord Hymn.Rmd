@@ -1,11 +1,15 @@
 ---
 title: "After Concord Hymn"
 author: "N Wilson"
-date: "2026-01-31"
-output: html_document
+date: '2026'
+output:
+  word_document: default
+  html_document: default
+  pdf_document: default
 ---
 
-Concord Hymn
+*Concord Hymn*    \
+Ralph Waldo Emerson (1837)  
 
 By the rude bridge that arched the flood,\
 Their flag to April's breeze unfurled,\
@@ -27,13 +31,13 @@ To die, and leave their children free,\
 Bid Time and Nature gently spare\
 The shaft we raise to them and thee.\
 
-Ralph Waldo Emerson (1837)
+\
 
 I have been reading the poem almost daily for the past year and in the process thinking about what it says.
 I chose this poem to memorize in middle school and though I have been trying to recommit it to memory the exact words and their order refuses to stick.
 One of the things I have been looking for in this semiquincentennial anniversary of the declaration of independence is an example of the sort of patriotism that I recognize in myself.
 Maybe I should say something about being eligible, several times over, to be a Son of the American Revolution?
-I think of myself as a patriot in the sense that I take many of the ideals of The Revolution to be noble goals, and one of tasks of patriotism is to bring those ideals—liberty, equality, self-governance, and so forth—into being for more and more people.^[Another task of patriotism is to look squarely at the injustices done in the name of your Nation. To acknoweldge their worst and most rapacious form and work towards amends while knowing that may well be impossible.] 
+I think of myself as a patriot in the sense that I take many of the ideals of The Revolution to be noble goals, and one of tasks of patriotism is to bring those ideals—liberty, equality, self-governance, and so forth—into being for more and more people.^[Another task of patriotism is to look squarely at the injustices done in the name of your Nation. To acknowledge their worst and most rapacious form and work towards amends while knowing that may well be impossible.] 
 A greatness in the promise and process that we work towards, rather than something that has ever been instantiated. 
 Concord Hymn was written by Emerson in memory of the battle of Lexington and Concord on the sixtieth anniversary of the event, to be read at the dedication of a monument to the same. 
 
@@ -61,7 +65,6 @@ and will be present in the future.
 It is this Spirit which does the acting, it *made these heroes dare*,
 and it is to this spirit which the poem is dedicated.
 Is this the patriotism I have been looking for? 
-Agency in creating a rupture for the purpose of a future I will not live.
 
 What I enjoy most about the poem is the action of nature and time.
 Unlike the Spirit, nature is passive. 
@@ -74,23 +77,23 @@ Emerson implores Nature and time to *gently spare* this human work,
 the laying of the votive stone, 
 as the rude bridge was not (ruined and swept away).
 
-I like the imagery and internal rhyme in the line just past the half way point
-*On this green bank, by this soft stream*.
+The imagery and internal rhyme in the line just past the half way point
+*On this green bank, by this soft stream* is a notable contrast to the more famous line the poem is known for.
 This is the image I want to take from the poem, it invokes peace and comfort, contrast to the flood and violence of the poem's first half. 
 It is the context in which the monument to that earlier time of struggle is lain.
 What is being asked of the Spirit; to spare the memory of the heroic farmers and the votive stone from being figuratively swept out to sea. 
 
 I want to believe that the experience of peace is the redemption of the memories of the patriots of the revolution. 
 It is the Spirit which moves men to action that Emerson is trying to placate here.
-He may be saying that the celebration of this monument, all the actors it celebrates 
-(yes the revolutionary farmers, but also Spirit, Nature, and Time)
+He may be saying that the celebration of this monument, all the actors it celebrates^[Yes, this means the revolutionary farmers, but *thee* also refers to Spirit, Nature, and Time.],
 must be remembered for the redemption of that past as a landscape of peace.
-Lose the memory (in all the parts explained), lose the peace.
+Lose the memory, lose the peace.
 
-This is not exactly the image of patriotism I was looking for, it's Emerson's version.
+This is not exactly the image of patriotism I was looking for, it is Emerson's version.
 Reading the poem closely I get a better sense of his transcendentalism
-(through a consideration of the Spirit and the passage of time).
+through a consideration of the Spirit and the passage of time.
 There is a backwards looking aspect to memory, obviously, but the poem constantly connects actions in the past to the present and the future,
 to die and leave their children free,
 when like our sires our sons are gone.
-This.
+We know today the animating Spirit moved the New England farmer to die again for the freedom in our Civil War. 
+The Spirit of patriotism requires that we celebrate peace, it can also  requires a daring that will be worthy of our grandchildren's memory.
