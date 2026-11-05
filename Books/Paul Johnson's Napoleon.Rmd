@@ -1,0 +1,77 @@
+---
+title: "Paul Johnson's **Napoleon**"
+date: "2026-10-08"
+output:
+  tufte::tufte_html: default
+---
+
+```{r fig-margin, fig.height=3.5, fig.margin=TRUE, fig.width=3.5, message=FALSE, warning=FALSE, cache=TRUE, include=TRUE, echo = FALSE}
+library(here)
+library(tufte)
+knitr::include_graphics(here("10-2026",  "Napoelon Cover.jpeg"))
+```
+`r tufte::newthought('This is the third')` Penguin Lives biography I have read this year.
+(Is that possible?)
+They are short introductions to historically significant people written by leading scholars.
+Paul Johnson "is an acclaimed historian" of "many best selling books."
+
+This is not a flattering portrait of Napoleon. 
+Little space is given to the ten years in which he was the master of Europe.
+None of his early battles are discussed and no space is given to the ideas which rode with him across Europe.
+More time is given to the rumor and details of his death than of any of the battles which constructed his empire. 
+the only battle discussed in depth is Waterloo.^[In fairness, it takes several pages to cover what happened at Waterloo, it is easy to see how a thorough biography of the man, one that takes his fifty-some significant battles seriously, in addition to preparations for the campaigns, and his civic actions and his personal life could make for a very long book. Short introductions are valuable as such.]
+
+I suspect there is some English chauvinism on the author's part.
+Case in point, as Napolean's end comes into view he writes, "The downfall of Bonaparte had it's origins in the unwillingness of the British to accept his conquests and legitimize them by a general peace treaty." (p.118)
+That is not a complaint on my part, it may be true, we notice what we notice and we think what we think generally not for no reason.
+
+I had never read about the man and didn't know much save the basic information; that he emerged out of the French Revolution, that Hegel called him 'history on horseback,' that it was his army that finally ended the Venetian republic, the fateful Moscow campaign, and there being more books on the man than anyone else save Jesus Christ.^[I recal there being a small reading room in the Museum of Jurassic Technology dedicated entirely to books about Napoleon.]
+The hole in my knowledge, my interest in Venice, combined with the biography of Pope John XXIII that I read earlier this year^[Each man is credited with doing away with what remained of medieval Europe in their respective domains.] inspired me to pick up a second hand copy of this edition of this biography.
+
+One of the first things we learn from Johnson is Napoleon seldom used his first name, referring to himself mostly as Bonaparte.
+That could imply the title is a slight dig, but in the popular imagination the man is generally called Napoleon, it is the appellation which derives from the man.
+
+Reinforcing the critical interpretation of the title, throughout the book, Johnson is determined not to present a sympathetic view of Napoleon.^[He tells us that Napoleon doesn't care about his men (p. 51), in fact he hates the French (p.119). His word in an accord means nothing (p87). He uses too much cologne (p.95). Even that he is a selfish lover (p81.)] 
+Thinking of Napoleon as the spirit of the Enlightenment, even the young first counsel, was always a mistake.
+We are told the perpetuation of that myth was the work of his propagandists, fuzzy headed romantic poets and "so called intellectuals."
+Artists of the first rank were not deceived.
+Beethoven removed the dedication to Napoleon from the top of his Third Symphony when he hears that Napoleon has declared himself Emperor and placed himself above the rest of humanity.
+Goya chronicles the horrors of war which the French bring to the Iberian Peninsula.
+When Bonaparte asked Goethe to write in praise of the Enlightened Emperor, the poet demurred. 
+Even Hegel, Johnson claims, "fell in love with Bonapartism for the wrong reasons and out of it for the wrong reasons, too."
+The Louvre, re-purposed home of the Bourbon Kings, is the home for looted art. 
+Any cultural credit that Napoleon may have assembled, Johnson reminds us, is due to thievery under arms or to Vivant Denon.
+"the center of a cultural web of that reached all over Europe" and "a fig leaf on Bonaparte's naked dictatorship." (102)
+So much for his cultural reputation.
+
+His reputation as the "Justinian of the modern world" is more complicated. 
+Here he did sweep away the feudal world, regional legal eccentricities, and most importantly instantiating the idea of equality under the law. 
+Johnson insists that Napoleon doesn't deserve credit for these ideas; he attended less than half of the sessions dedicated to drafting the laws; his actual opinions were in practice retrograde (against woman's rights and in favor of re-instituting slavery in the West Indies).
+But there can be no doubt that it is the force of Napoleon's army which brings the law.
+It is indisputable that legal reform was on Napoleon's agenda, if there were not a priority for him they would not have happened.
+"Thus it had a huge impact on large parts of Europe, and it still has. Bonaparte did not create it. On the other hand it could not have come into being without him." (106)
+
+Mostly Johnson's appraisal of Napoleon is about war.
+Two decades of near constant war.
+What war means to ordinary people^["…the coming of Bonapart's armies often meant the loss of their crops, stores, horses, and livestock, the torching of their farms and barns, the rape of wives and daughters, the billeting of rapacious soldiery, and the stabling of horses in their beloved local church." (p.84)] 
+is the basis of the tone of moral judgment taken by the book.
+Mostly it is about the intrege of Napoleon's remaking and fitting in to the political system of Europe, then the sequence of alliances formed to check and ultimately defeat the Grande Armée. 
+What then is the basis of his success on the battle field?
+We see his speed, daring decisiveness, risk taking, leadership and will, combined with precision and divide and attack tactics? 
+"Of course, it could not have succeeded without the corresponding weakness of his enemies" (p.70)
+He is acknowledged as "the greatest military cartographer of all time" but then his final defeat is explained by his decision to put a man in charge that couldn't read a map.
+Any praise is faded with contrast.
+
+There are a couple big ideas in the text that are worth thinking more deeply about.
+(i) Lack of hierarchy in his Empire^["The trouble with Napoleonic Empire was that it had no natural or even artificial hierarchy." (p.99)]
+(ii) Effect on Germany and when the disillusion of the middle ages actually happened.^["Destroying the Holy Roman empire seemed… no more momentus than ending the Venetian oligarchy or replacing the Knights of Malta. …It was a device for making it difficult for bringing about it's political and military unity. …If Germany was unified, it would ne much more formidable than its neighbors and would inevitably seek to dominate the rest of Europe." (p.136)
+"It is curious indeed that Bonaparte, in his lifetime, quite failed to destroy  legitimist Europe. IN the end, he provoked the Congress of Vienna, which refounded legitimism so firmly that it lasted another century until, in the First World War, it destroyed itself." (p.186)]
+(iii) Optimistic reading of the military dictatorship.^["military rule, or rule by military men, works only (if at all) in emergencies for brief periods. …built to blaze but not to last." (p.111)]
+
+The final aspect of the specificity of Napoelon that makes him enduringly fascinating is his denouement. 
+After burning through Europe for 15 years, his army finally beaten, Napoleon is sent into exile. Twice.
+He escapes from Alba and marches to Paris to a reprise of empire.
+A dream returning in waking life.
+Then a second exile on a remote island, so grow fat and fade away as the Burbon Dynasty is restored and Europe moves on. 
+A novelistic end to an impossible life. 
+

@@ -3,8 +3,8 @@ title: "After Concord Hymn"
 author: "N Wilson"
 date: '2026'
 output:
-  word_document: default
   html_document: default
+  word_document: default
   pdf_document: default
 ---
 
@@ -33,30 +33,30 @@ The shaft we raise to them and thee.\
 
 \
 
-I have been reading the poem almost daily for the past year and in the process thinking about what it says.
+
 I chose this poem to memorize in middle school and though I have been trying to recommit it to memory the exact words and their order refuses to stick.
 One of the things I have been looking for in this semiquincentennial anniversary of the declaration of independence is an example of the sort of patriotism that I recognize in myself.
 Maybe I should say something about being eligible, several times over, to be a Son of the American Revolution?
 I think of myself as a patriot in the sense that I take many of the ideals of The Revolution to be noble goals, and one of tasks of patriotism is to bring those ideals—liberty, equality, self-governance, and so forth—into being for more and more people.^[Another task of patriotism is to look squarely at the injustices done in the name of your Nation. To acknowledge their worst and most rapacious form and work towards amends while knowing that may well be impossible.] 
 A greatness in the promise and process that we work towards, rather than something that has ever been instantiated. 
 Concord Hymn was written by Emerson in memory of the battle of Lexington and Concord on the sixtieth anniversary of the event, to be read at the dedication of a monument to the same. 
+I have been reading the poem almost daily for the past year and in the process thinking about what it says.
 
 As a poem dedicated to people who died in battle it seems important he doesn't mention bravery or sacrifice.
 The embattled farmers *dared* to revolt against the Crown, standing with their flag in the breeze, firing the shot heard round the world.
 This is heroism of a different sort than sacrifice.
-To that action this votive stone is set, 'that memory may their deed redeem'. 
+To that action this votive stone is set, *that memory may their deed redeem*. 
 How do we make sense of that sentiment?
 In the act of remembrance symbolized and recalled by the monument stone,
-we—those in attendance, and whomever looks upon the it in the future—will
-regain possession of their deed; 
+we—those in attendance, and whomever looks upon the it in the future—will regain possession of their deed; 
 the commitment to the cause, *the daring to die*.
 to die for freedom for one's children.
 This is a lovely sentiment to offer for the founders of a nation.
 On its own, if that was all there was, it wouldn't be so interesting. 
 The second half of that line *to leave their children free* speaks of a process,
 the fruits of which the actors, the embattled farmers, will never see. 
-The daring is in planting a crop (these are farmers) you will never eat.^[Their shot heard round the world, was successfully reanimated to describe a notable bit of World Series baseball. 
-I love baseball, but that re-purposing is a testament to the anodyne aspect of battle—they are appropriate for describing sports.]
+The daring is in planting a crop (these are farmers) you will never eat.^[Their shot heard round the world, was successfully reanimated to describe a bit of World Series baseball. 
+I love baseball, but that re-purposing is a testament to the anodyne aspect of martial sentiments—they are appropriate for describing sports.]
 
 In our time of political God-bothering, note the Spirit which motivates the daring is not named.
 There is no Jesus or Christian God in the poem but an unnamed eminence,
@@ -89,11 +89,11 @@ He may be saying that the celebration of this monument, all the actors it celebr
 must be remembered for the redemption of that past as a landscape of peace.
 Lose the memory, lose the peace.
 
-This is not exactly the image of patriotism I was looking for, it is Emerson's version.
+This is not exactly the vision of patriotism I was looking for, it is Emerson's version.
 Reading the poem closely I get a better sense of his transcendentalism
 through a consideration of the Spirit and the passage of time.
 There is a backwards looking aspect to memory, obviously, but the poem constantly connects actions in the past to the present and the future,
-to die and leave their children free,
-when like our sires our sons are gone.
-We know today the animating Spirit moved the New England farmer to die again for the freedom in our Civil War. 
+*to die and leave their children free, <br>when like our sires our sons are gone.*
+We know today the animating Spirit moved the New England farmer to die for the freedom again in our Civil War. 
 The Spirit of patriotism requires that we celebrate peace, it can also  requires a daring that will be worthy of our grandchildren's memory.
+This.
