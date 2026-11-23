@@ -1,10 +1,8 @@
 ---
-title: "Gallery Visits January 17 2026"
-author: "NWilson"
-date: "2026-01-18"
+title: "Gallery Visits <br>January 17 2026"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 
 ### The Box. 
@@ -24,7 +22,7 @@ I didn't think about snapping a photo of any of the work.\
 ```{r echo=FALSE, fig.cap="This drawing is not in the *Phallus :: Fascinum :: Fascism* exhibition. It's from the Lee Lozano show but content-wise it could have been included.", out.width = "500px", fig.align='center'}
 
 library(knitr)
-include_graphics("~/Documents/writing_experiments/Gallery Walk January 17 2026/IMG_5721.jpeg")
+include_graphics("~/Documents/Final Drafts/Gallery Walk January 17 2026/IMG_5721.jpeg")
 ```
 \
 As I approached the back of the large gallery (there were at least three rooms of artwork) I felt an internal contradiction regarding all the dicks and the daring and the aesthetic of of messiness. 
@@ -44,7 +42,7 @@ Shop for clothes.
 
 ```{r echo=FALSE, fig.cap="Seeing Pink Elephants (2025)", out.width = "1000px", fig.align='center'}
 
-include_graphics("~/Documents/writing_experiments/Gallery Walk January 17 2026/Flora Yukhovich (2025) Seeing Pink Elephants.jpeg")
+include_graphics("~/Documents/Final Drafts/Gallery Walk January 17 2026/Flora Yukhovich (2025) Seeing Pink Elephants.jpeg")
 ```
 
 In the light-filled gallery with the balcony were large colorful paintings. 
@@ -82,7 +80,7 @@ See the image above to get a sense for how the images were hung in relation to e
 
 ```{r echo=FALSE, fig.cap="Title Unrecorded", out.width = "500px", fig.align='center'}
 
-include_graphics("~/Documents/writing_experiments/Gallery Walk January 17 2026/IMG_5722.jpeg")
+include_graphics("~/Documents/Final Drafts/Gallery Walk January 17 2026/IMG_5722.jpeg")
 ```
 
 I could imagine myself living with one of these drawings.
@@ -97,7 +95,7 @@ It's not a complaint as much as a speculation.
 
 ```{r echo=FALSE, fig.cap="Title Unrecorded", out.width = "500px", fig.align='center'}
 
-include_graphics("~/Documents/writing_experiments/Gallery Walk January 17 2026/IMG_5720.jpeg")
+include_graphics("~/Documents/Final Drafts/Gallery Walk January 17 2026/IMG_5720.jpeg")
 ```
 
 The third room contained a single row of framed sketches all pulled from different notebooks.
