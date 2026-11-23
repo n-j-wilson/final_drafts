@@ -1,17 +1,18 @@
 ---
-title: "Introduction to Economic Basis of New Society"
+title: "An Introduction to the Economic Basis of New Society"
 output:
+  tufte::tufte_html: default
   word_document: default
-  html_document:
-    theme: null
-    css: style.css
   pdf_document: default
 ---
+```{r message=FALSE, warning=FALSE, cache=TRUE, include=TRUE, echo = FALSE}
+library(tufte)
+```
 
-
-I wanted to share this article with you because it's a useful bit of political economy.
+I wanted to share this with you because it's a useful bit of political economy.
 While browsing at Autumn Leaves in Ithaca I saw the note at the bottom of the first page of this article "written specially for this volume" and that piqued my interest.
-I've spent eighty bucks on a volume of Dewey's collected essays just to get my hands on one essay, $12.50 for this collection seemed like the right price. 
+I've spent eighty bucks on a volume of Dewey's collected essays just to get my hands on one essay. 
+$12.50 for this collection seemed like the right price. 
 I'm glad I was able to circle back to the bookstore and pick this up. 
 
 I like Dewey's philosophy in general, though this isn't an explicitly philosophical essay.
@@ -21,13 +22,15 @@ My intuition is that Marxism gets attention as *the* critical approach to the ec
 (There are many, many critical traditions indebted to Marx, thus considering even just a taxonomy of alternative critical approaches in any depth is a project I will leave for someone else).
 There is also an optimism in Dewey's writing that I don't get from Marxists.
 If you can only promise struggle, most people would rather do something else. 
-I don't say this to diminish Marxists or their approach, if there is to be a better world we will have to get there together. 
+I don't say this to diminish Marxists or their approach, if there is to be a better world to be had it won't come automatically, there is hard work to be done, together. 
 
-All that said, as an introductory work of political economy I think the *The Economic Basis of The New Society* is pretty good. 
+All that said, as an introductory work of political economy, *The Economic Basis of The New Society* is pretty good. 
 The book it comes from was published in 1939 (the first sentence mentions the "next world war") but sections of the essay are taken from an earlier article published in 1918 about the lessons of economic organization of the first world war.
 It's an interesting snapshot, and you don't just find it here, it was a broadly taken lesson of the war---something like 'actually we could organize production and distribution like for war, but to benefit the population.'
-Here's Dewey,
-"The real question with us will be one of effectively discerning whether intelligent men of the community really want to bring about a better reorganized social order. …instead of letting society drift along more or less at the mercy of accident." (424)
+
+>The real question with us will be one of effectively discerning whether intelligent men of the community really want to bring about a better reorganized social order. …instead of letting society drift along more or less at the mercy of accident. (424)
+>
+
 This is before GDP (or national income accounting) was invented and before the idea of rational management was a 'thing'.
 Instead, in the sections from 1918 he identifies several problems with the economy broadly conceived, then he envisions a solution to each problem. 
 ^[Dewey's lessons from the war are different from what we see in William James' *The Moral Equivalent of War*. Published in 1910, that essay is a vision for creating a type of social cohesion without an active war machine. We can see James' ideas reflected in the idealism behind The Peace Corps and Teach for America and the periodic calls for institutions of national service.]
@@ -58,8 +61,10 @@ Depending on the account you read, the Dewey Commission was either a model of tr
 Dewey self-identified as a liberal, but was never an apologist for the established social order and its shortcomings (thought hw doesn't write about race in this essay, Cornell West calls him explicitly anti-racist).
 He believed in the possibility of progress and the process of finding the truth.
 That said, Fredric Hayek didn't like Dewey and considered his activist vision of progressive liberalism as being in league with totalitarianism.
-Here's Dewey, 
-"Social control effected through organized application of social intelligence is the sole form of social control that can and will get rid of existing evils without landing us finally in some form of coercive control from above and outside." (431)
+
+>Social control effected through organized application of social intelligence is the sole form of social control that can and will get rid of existing evils without landing us finally in some form of coercive control from above and outside. (431)
+>
+
 Those thoughts may be a good place from which to understand what was new about the New Deal.
 Dewey has a vision of the state actively involved in the economy through social insurance, regulatory activity, and employment none of which really existed at scale in America before FDR.
 Simultaneously, conservatives understood the 'application of social intelligence' as an erosion of traditional structures of governance to which they were amenable, while libertarians like Hayek feared the implementation of social objectives will come at the loss of individual liberty.
@@ -71,8 +76,11 @@ An economics without an aesthetic vision, however accurate the economics may be,
 
 So, by 1939 the lessons of the Great War had been metabolized and the idea of *planning* already contained the smell of the Soviet project.
 Dewey took a moment to distinguish his project from theirs and in the process we get a glimpse at what made his thought special,
-"An immense difference divides the *planned* society [i.e. the Soviet or Communist approach] from the *continuously planning* society. …The attempt to *plan* social organization and association without the freest possible play of intelligence contradicts the vary idea of *social* planning. For the later is an operative method of activity, not a predetermined set of final "truths.""
-The emphasis on the social process of planning and *"not a predetermined set of final truths"* is a hallmark of his anti-foundational method.
+
+>An immense difference divides the *planned* society [i.e. the Soviet or Communist approach] from the *continuously planning* society. …The attempt to *plan* social organization and association without the freest possible play of intelligence contradicts the vary idea of *social* planning. For the later is an operative method of activity, not a predetermined set of final "truths."
+>
+
+The emphasis on the social process of planning and *not a predetermined set of final truths* is a hallmark of his anti-foundational method.
 Dewey's philosophy for a progressive society without predetermined, final truths is what inspired Richard Rorty to group Dewey with Wittgenstien and Hiedegger as the three greatest philosophers of the 20th century.
 I see it as an outline for how Jefferson's vision in the preamble to The Constitution and Lincoln's vision for America in The Gettysburg Address could actually be brought to fruition. 
 
