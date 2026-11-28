@@ -1,15 +1,19 @@
 ---
-title: "An Introduction to the Economic Basis of New Society"
+title: "An Introduction to the Economic Basis of the New Society"
 output:
   tufte::tufte_html: default
   word_document: default
   pdf_document: default
 ---
-```{r message=FALSE, warning=FALSE, cache=TRUE, include=TRUE, echo = FALSE}
+
+```{r fig-margin, fig.height=3.5, fig.margin=TRUE, fig.width=3.5, message=FALSE, warning=FALSE, cache=FALSE, include=TRUE, echo=FALSE, fig.link=here::here("Introduction to Dewey", "Dewey (1939) The Economic Basis of the New Society.pdf")}
+library(here)
 library(tufte)
+
+knitr::include_graphics(here("Introduction to Dewey", "Dewey (1939) The Economic Basis of the New Society.png"))
 ```
 
-I wanted to share this with you because it's a useful bit of political economy.
+I want to share this because it's a useful bit of political economy.
 While browsing at Autumn Leaves in Ithaca I saw the note at the bottom of the first page of this article "written specially for this volume" and that piqued my interest.
 I've spent eighty bucks on a volume of Dewey's collected essays just to get my hands on one essay. 
 $12.50 for this collection seemed like the right price. 
@@ -37,11 +41,11 @@ Instead, in the sections from 1918 he identifies several problems with the econo
 
 One of his solutions to an economic problem he identifies is 
 "the guarantee of the right, to every individual who is capable of it, to work---not the mere legal right, but a right which is enforceable so that the individual will always have the opportunity to engage in some form of useful activity."
-Advocating for a "right" to meaningful employment is remarkable as it strikes against one of the classic presuppositions of capitalism (the organization of production, and therefore employment, on the basis of profit but---this is a critical and part of what separates it from Marxists---he doesn't advocate for a right to work in terms of the struggle against capitalism, he is interested in bettering people's lives now)
+Advocating for the right to meaningful employment is remarkable as it strikes against one of the classic presuppositions of capitalism (the organization of production, and therefore employment, on the basis of profit but he doesn't advocate for a right to work in terms of the struggle against Capitalism).
 Among two of the economic reforms found in current public discussion, a basic income guarantee (BIG) and a job guarantee (JG), the later is consistent with his vision.
 Though Dewey doesn't mention the radical implication, a JG removes the threat of unemployment as a method to discipline worker behavior and potentially breaks the ability of the owners of capital to dictate the terms and scope of economic activity.
 I interpret a BIG as more palatable to the status quo because it does not change control over the terms of employment or production.
-Indeed, studies of cash transfer programs indicate that people use the money to address the expressions of their precarity (fixing cars, dental care, housing stability, building a savings saftynet) rather than leading to an exit from employment.
+Indeed, studies of cash transfer programs indicate that people use the money to address the expressions of their precarity (fixing cars, dental care, housing stability, building a savings safetynet) rather than leading to an exit from employment.
 Palliative care for persistent sickness.
 An intelligent approach to an epidemic of chronic disease is a mixture of palliative and preventive care. 
 
