@@ -6,7 +6,7 @@ output:
   pdf_document: default
 ---
 
-```{r fig-margin, fig.height=3.5, fig.margin=TRUE, fig.width=3.5, message=FALSE, warning=FALSE, cache=FALSE, include=TRUE, echo=FALSE, fig.link=here::here("Introduction to Dewey", "Dewey (1939) The Economic Basis of the New Society.pdf")}
+```{r fig-margin, fig.height=3.5, fig.margin=TRUE, fig.width=3.5, message=FALSE, warning=FALSE, cache=FALSE, include=TRUE, echo=FALSE, fig.link=here::here("Writing", "Dewey (1939) The Economic Basis of the New Society.pdf")}
 library(here)
 library(tufte)
 
